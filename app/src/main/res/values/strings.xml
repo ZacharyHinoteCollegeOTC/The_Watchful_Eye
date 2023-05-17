@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">The Watchful Eye</string>
+    <string name="title_browse">Browse</string>
+    <string name="title_category">Category</string>
+    <string name="countryChoice">Choose your Country:</string>
+    <string name="us">United States</string>
+    <string name="ua">Ukraine</string>
+    <string name="ca">Canada</string>
+    <string name="gb">Britain</string>
+    <string name="ar">Argentina</string>
+    <string name="mx">Mexico</string>
+    <string name="title_Saved">Saved</string>
+    <string name="api_key">7210bfdc9d704f72824900a1d01936a4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
